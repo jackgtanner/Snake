@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(/lib/assets/img/yoal-desurmont-jqgsM3B9Fpo-unsplash.jpg);
+    background-image: url(./lib/assets/img/yoal-desurmont-jqgsM3B9Fpo-unsplash.jpg);
     background-repeat: none;
     background-size: cover;
 }
@@ -40,5 +40,5 @@ body {
 }
 
 .food {
-    background-image: url(/lib/assets/img/apple.png);
+    background-image: url(./lib/assets/img/apple.png);
 }
